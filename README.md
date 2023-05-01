@@ -1,4 +1,4 @@
-# Summit-Sprint-Unity
+# Summit Sprint
 
 A Unity endless runner game. Sprint to the Summit!
 
