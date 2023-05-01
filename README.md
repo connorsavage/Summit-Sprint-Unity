@@ -1,6 +1,6 @@
 # Summit Sprint
 
-A Unity endless runner game. Sprint to the Summit!
+Battle the elements as you ascend the snowy mountain in this Unity endless runner game!
 
 * To play, download BUILDGAME.ZIP file and run summitsprint.exe
 
